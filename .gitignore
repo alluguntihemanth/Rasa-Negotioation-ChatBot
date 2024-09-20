@@ -1,0 +1,17 @@
+# Virtual environment
+new-rasa-env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Rasa models
+models/
+
+# Environment variables
+.env
+
+# Other unnecessary files
+.DS_Store
+
+rasa-project/.rasa/
