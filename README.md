@@ -1,6 +1,7 @@
 # Rasa-ChatBot
 # Negotiation Chatbot
-![rasa_logo_horizontal_purple-3](https://github.com/user-attachments/assets/bba5e6de-9b2b-44de-9a03-30b680914d20)
+![rasa_logo_horizontal_purple-3 (1)](https://github.com/user-attachments/assets/31d58b18-c1ca-4888-ae6f-56a33b36fcdf)
+
 
 ## Overview
 This negotiation chatbot simulates a price negotiation process between a customer and a supplier using a pre-trained AI model. The chatbot is designed to handle user offers, respond appropriately, and guide the user through the negotiation flow.
