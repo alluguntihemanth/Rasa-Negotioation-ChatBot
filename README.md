@@ -65,9 +65,6 @@ Here’s an example of how a conversation with the bot might go:
 5. **User**: "Let's proceed."
    - **Bot**: "Goodbye! Have a great day!"
 
-## Conclusion
-This README provides an overview of the negotiation chatbot's functionality and integration of the AI model. For further customization or additional features, you can modify the action logic or expand the conversation flows.
-
 ## License
 This project is licensed under the Apache License 2.0. See the LICENSE file for details.
 
