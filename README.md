@@ -2,7 +2,7 @@
 ## 📚 **Negotiation Chatbot**  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31d58b18-c1ca-4888-ae6f-56a33b36fcdf" alt="Rasa Logo" width="350"/>
+  <img src="https://github.com/user-attachments/assets/31d58b18-c1ca-4888-ae6f-56a33b36fcdf" alt="Rasa Logo" width="150"/>
 </p>  
 
 ---
