@@ -96,14 +96,10 @@ Here's an example of how a conversation with the chatbot might go:
 
 ---
 
-## 🌐 **Live Demo**  
-👉 [Project Matthew](https://projectmatthew-hemanthallugunti.streamlit.app)  
-
----
 
 ## 🤝 **Contributing**  
-We appreciate your interest!  
-Feel free to **fork** the repository and create a **pull request** to suggest improvements or report issues.
+We appreciate your interest! However, we are still finalizing the contribution process.  
+In the meantime, feel free to fork the repository and experiment with the code. We plan to introduce formal contribution guidelines soon. 
 
 ---
 
