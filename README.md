@@ -110,18 +110,11 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](LIC
 
 ## 📧 **Contact**  
 For any inquiries, feel free to reach out via:  
-- **Email**: yourname@example.com  
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/your-profile)
+- **Email**: hemanthallugunti.com  
+- **LinkedIn**: [Hemanth Reddy Allugunti](https://www.linkedin.com/in/hemanth-reddy-allugunti-883b36216/)
 
 ---
 
-## 🎨 **Aesthetic Color Palette**  
-- **Background**: #F0F4F8  
-- **Primary Accent**: #4A90E2  
-- **Secondary Accent**: #50E3C2  
-- **Text**: #4A4A4A  
-
----
 
 Enjoy chatting with the **Rasa-ChatBot**! 😊
 
