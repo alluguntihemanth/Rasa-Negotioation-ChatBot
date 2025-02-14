@@ -96,13 +96,6 @@ Here's an example of how a conversation with the chatbot might go:
 
 ---
 
-
-## 🤝 **Contributing**  
-We appreciate your interest! However, we are still finalizing the contribution process.  
-In the meantime, feel free to fork the repository and experiment with the code. We plan to introduce formal contribution guidelines soon. 
-
----
-
 ## 📄 **License**  
 This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for more details.
 
