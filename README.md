@@ -97,7 +97,7 @@ Here's an example of how a conversation with the chatbot might go:
 ---
 
 ## 📄 **License**  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **MIT License**.
 
 ---
 
